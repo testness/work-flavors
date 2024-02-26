@@ -8,6 +8,8 @@ This is a curated list of resources that were very helpful to me in my early day
 * Ann-Marie Charrett's [Quality Coach](https://www.annemariecharrett.com/) - Leadership, Quality and Women in Tech. Plus the occasional rant!
 * Software Lead Weekly [SWLW](https://softwareleadweekly.com/) - for busy people who care about people, culture and leadership
 * TaoN (The Art of Noticing) [open source icebreakers](https://docs.google.com/document/d/1j4rj883slFvh1zZLGedqQFM0wqCrHlIEPE62K0LkKak/edit?usp=sharing) - to lively up your retrospectives or gatherings outside of work.
+* Root Cause Analysis [Debriefing Facilitation Guide](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
+* Just Culture, [Etsy's Blameless PostMortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 
 
 
