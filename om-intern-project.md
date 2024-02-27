@@ -1,6 +1,6 @@
 ## Background
 
-This is the curriculum I created for an offering manager (OM) student intern.  This project resulted in a new application feature and gave the intern hands-on experience in an agile development team with UX, engineers, and data specialists, making iterative, demonstrable progress in two-week iterations.  I was the product owner (a.k.a. OM) for this application which served external and internal users. I was one of a team of three folks who served as the intern's mentor.  At the end of the month and a half internship, we were able to extend them a full-time offer and they accepted!
+This is the curriculum I created for an offering manager (OM) student intern.  This project resulted in a new application feature and gave the intern hands-on experience in an agile development team with UX, engineers, and data specialists, making iterative, demonstrable progress in two-week iterations.  I was the product owner (a.k.a. OM) for this application which served external and internal users. I was one of a team of three folks who served as the intern's mentor.  
 
 ## Onboarding checklist 
 1. Read and watch internal enablement materials to get an overview
