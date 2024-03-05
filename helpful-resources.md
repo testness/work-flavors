@@ -1,5 +1,5 @@
 ## Context
-This is a curated list of resources that were very helpful to me in my early days as an offering manager (OM)/product manager (PM).  Some of these items I was using before I was a PM, back when I was QA or scrum master (and sometimes both).   I hope you also find these helpful for *sharpening the saw* no matter the role on product teams.  These are links I tend to share over and over based on specific requests for help.
+This is a curated list of resources that were very helpful to me in my early days as an offering manager (OM)/product leader.  Some of these items I was using before I was an OM, back when I was QA or scrum master (and sometimes both).   I hope you also find these helpful for *sharpening the saw* no matter the role on project teams.  These are links I tend to share or refer back to over and over.
 
 ## Leadership, quality, culture!
 * [Johanna Rothman](https://www.jrothman.com/blogs/) - pragmatic management, culture, happy customers
