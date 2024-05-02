@@ -11,7 +11,7 @@ This is the curriculum I created for an offering manager (OM) student intern.  T
 ## Project 
 **Goal:** Design, develop, deliver an in-app smart walkthroughs using WalkMe  
 **Value:** Firsthand agile development project experience  
-**Skills:** Agile development practices   
+**Skills:** Agile development practices, backlog creation and refinement, product management, WalkMe technical development, analytics   
 
 ## Measures
 1. Gather project requirements and translate into an epic (or epics) on the ZenHub backlog.
