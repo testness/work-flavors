@@ -9,7 +9,7 @@ This is the curriculum I created for an offering manager (OM) student intern.  T
 1. Schedule a 30-minute introductory walkthrough/live demo session with me
 
 ## Project 
-**Goal:** Design, develop, deliver an in-app smart walkthroughs using WalkMe  
+**Goal:** Design, develop, deliver an in-app smart walkthrough using WalkMe  
 **Value:** Firsthand agile development project experience  
 **Skills:** Agile development practices, backlog creation and refinement, product management, WalkMe technical development, analytics   
 
