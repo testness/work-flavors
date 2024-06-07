@@ -16,4 +16,4 @@
 
 
 # work-flavors
-This repository contains a few samples of artifacts and resources that have been helpful across multiple teams and contexts.
+This repository contains a few samples of artifacts and resources that have been helpful across software teams and business contexts.  These highlight my love for the quality of the customer experience, of operational excellence, of leadership, and of team happiness.
