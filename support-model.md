@@ -1,5 +1,5 @@
 ## Context
-This is a document I created and shared per request of our company's project management guild.  It is intended to highlight our engineering team's DevOps culture and successful ways of working with high SLAs, SLOs, and excellent customer service.  Our engineering team's name: SABA
+This is a document I created and shared per request of our company's project management guild.  It is intended to highlight our engineering team's DevOps culture and successful ways of working with high SLAs, SLOs, and excellent customer service.  Our engineering team's name: SABA (SaaS Acceleration Business Applications)
    
 ## Overview  
 
