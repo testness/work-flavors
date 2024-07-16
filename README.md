@@ -1,5 +1,5 @@
 # about me
-* 15+ years in technical/product leadership roles as ‘voice of the customer’ in enterprise environments.
+* Product and technical leader for global customer success, data privacy compliance, partner program experience, and multiple platform initiatives. Six years of servant-leadership management experience, 7+ years in product management, and 15+ years as “voice of the customer” in cross-functional quality engineering and business analyst roles across Fortune 100, Fortune 500, Department of Defense (DoD), and top 100-ranked cloud service provider private equity start-up organizations. An effective relationship builder and dynamic leader.
 * Extensive customer-facing experience across diverse settings.
 * Adept in fostering trust within cross-functional teams while guiding iterative value delivery, continuous improvement, and effectively navigating organizational change.
 * Dynamic servant-leadership style fueled by genuine curiosity, conscientiousness, and customer centricity.
