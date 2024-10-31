@@ -14,7 +14,7 @@ This is a curated list of resources that were very helpful to me in my early day
 
 * Noah Weiss' [#now, #next, #later: Roadmaps without drudgery](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645 'blog post on Roadmaps without drudgery')
 * Mountain Goat Software blog post, [Job stories offer viable alternative to user stories](https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories 'blog post on Job stories offer viable alternative to user stories')
-
+* Cindy Gross | Befriending Dragons [Working agreements - Group Boundaries](https://befriendingdragons.com/agreements/)
 * Julie Zhou's [The Looking Glass](https://lg.substack.com/) - product & design, leadership & team, and the way we grow and evolve
 * Molly Tschang's [Say It Skillfully](https://www.sayitskillfully.com/), develop communication skills to lead more effectively and drive change, based on an easy-to-apply framework with humanity at its center
 * Rob Lambert's [Cultivated Management](https://www.cultivatedmanagement.com/), source of guidance for people building amazing workplaces - workplaces where work gets shipped and that enriches the lives of all who work in it
