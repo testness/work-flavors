@@ -4,7 +4,7 @@ This is a curated list of resources that were very helpful to me in my early day
 ## Software and Product Leadership, Quality, Culture!
 * [Johanna Rothman](https://www.jrothman.com/blogs/) - pragmatic management, culture, happy customers
 
-* Hueristic Test Strategy Model [(HTSM)](https://www.developsense.com/resource/htsm.pdf), set of guideword heuristics designed to help you think better about test strategy. It includes four focus areas: test techniques, project elements, product elements, and quality criteria categories
+* Hueristic Test Strategy Model [(HTSM)](https://www.developsense.com/resource/htsm.pdf), set of guideword heuristics designed to help you think better about quality/test strategy. It includes four focus areas: test techniques, project elements, product elements, and quality criteria categories
 * Root Cause Analysis [Debriefing Facilitation Guide](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * Just Culture, [Etsy's Blameless PostMortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * Ann-Marie Charrett's [Quality Coach](https://www.annemariecharrett.com/) - Leadership, Quality and Women in Tech. Plus the occasional rant!
