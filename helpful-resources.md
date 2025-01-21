@@ -8,13 +8,15 @@ This is a curated list of resources that were very helpful to me in my early day
 * Root Cause Analysis [Debriefing Facilitation Guide](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * Just Culture, [Etsy's Blameless PostMortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * Ann-Marie Charrett's [Quality Coach](https://www.annemariecharrett.com/) - Leadership, Quality and Women in Tech. Plus the occasional rant!
-* Lisa Crispin's [Agile Testing Quadrants:](https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/) -a guide for test strategy. 
+* Lisa Crispin's [Agile Testing Quadrants](https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/) -a guide for test strategy. 
 * Jeff Patton - [Build better products with user story mapping](https://jpattonassociates.com/story-mapping/) 
 * Teresa Torres - Product Talk, Make Better Product Decisions, [Generate Better Ideas](https://www.producttalk.org/2014/02/stop-brainstorming-and-generate-better-ideas/?_gl=1*nnmy2g*_ga*NjEwODQxMjcwLjE3MTc3NjY3NTU.*_ga_EME3D1MCCS*MTcyMDE5NjkyMi44LjEuMTcyMDE5NzMyNS4wLjAuMA)
 
 
 * Noah Weiss' [#now, #next, #later: Roadmaps without drudgery](https://medium.com/@noah_weiss/now-next-later-roadmaps-without-the-drudgery-1cfe65656645 'blog post on Roadmaps without drudgery')
-* Mountain Goat Software blog post, [Job stories offer viable alternative to user stories](https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories 'blog post on Job stories offer viable alternative to user stories')
+* Mountain Goat Software blog post, [Job stories offer viable alternative to user stories](https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories 'blog post on Job stories offer viable alternative to user stories') 
+* [ByteByteGo Newsletter](https://blog.bytebytego.com/) - Explains complex systems with simple terms, from the authors of the best-selling system design book series.
+
 * Cindy Gross | Befriending Dragons [Working agreements - Group Boundaries](https://befriendingdragons.com/agreements/)
 * Julie Zhou's [The Looking Glass](https://lg.substack.com/) - product & design, leadership & team, and the way we grow and evolve
 * Molly Tschang's [Say It Skillfully](https://www.sayitskillfully.com/), develop communication skills to lead more effectively and drive change, based on an easy-to-apply framework with humanity at its center
