@@ -2,6 +2,7 @@
 This is a curated list of resources that were very helpful to me in my early days as an offering manager (OM)/product leader.  Some of these items I was using before I was an OM, back when I was QA or scrum master (and sometimes both).   I hope you also find these helpful for *sharpening the saw* no matter the role on project teams.  These are links I tend to share or refer back to over and over.
 
 ## Software and Product Leadership, Quality, Culture!
+* [PRODUX LABS Podcast](https://www.produxlabs.com/product-thinking) - Product Thinking Podcast with Melissa Perri
 * [Johanna Rothman](https://www.jrothman.com/blogs/) - pragmatic management, culture, happy customers
 
 * Hueristic Test Strategy Model [(HTSM)](https://www.developsense.com/resource/htsm.pdf), set of guideword heuristics designed to help you think better about quality/test strategy. It includes four focus areas: test techniques, project elements, product elements, and quality criteria categories
