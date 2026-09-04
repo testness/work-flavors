@@ -40,7 +40,9 @@ Most quotes below are from IBM colleagues (via group farewell messages on depart
 >   
 > "Your demonstrated leadership, attention to detail, and tactical flexibility during challenging situations is commendable. Working with you has been an inspiration to me as we got features built out over crazy timelines." — **K**, Chief Enterprise Architect / Senior Technical Staff Member, IBM  
 >   
-> "You have a special knack for asking questions that at first seem out of left field, yet ultimately led our team to proactively address important gaps/concerns we had not thought of, leading us to build better products." — **G**, Sr. Product Manager, AppRiver  
+> "You have a special knack for asking questions that at first seem out of left field, yet ultimately led our team to proactively address important gaps/concerns we had not thought of, leading us to build better products." — **G**, Sr. Product Manager, AppRiver
+>
+> "You made us better—way better! It’s rare for someone to be so effective and so pleasant at the same time." -- Scott Cutler, COO, AppRiver
 >   
 > "Thank you for your unwavering support and help in running the squad as smooth as possible. I will miss our 1:1's and chit chats outside of work." — **S**, Software Architect, IBM  
 >   
