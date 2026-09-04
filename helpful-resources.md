@@ -1,5 +1,5 @@
 ## Context
-This is a curated list of resources that were very helpful to me in my early days as an offering manager (OM)/product leader.  Some of these items I was using before I was an OM, back when I was QA or scrum master (and sometimes both).   I hope you also find these helpful for *sharpening the saw* no matter the role on project teams.  These are links I tend to share or refer back to over and over.
+This is a curated list of resources that were very helpful to me in my early days as an offering manager (OM)/product leader and that remain relevant to me in mentoring and coaching agile team members on quality.  Some of these items I was using before I was an OM, back when I was focused QA or scrum master (and sometimes both).   I hope you also find these helpful for *sharpening the saw* no matter the role on project teams.  These are links I tend to share or refer back to over and over.
 
 ## Software and Product Leadership, Quality, Culture!
 * [Esther Derby](https://estherderby.com/) - Leadership, creating environments for teams to thrive.
