@@ -1,4 +1,4 @@
-# Leadership Brag Book
+# Brag Book
 
 > A running log of feedback, thank-yous, and recognition from teammates and leaders — started as a practice for reflection and career mapping, inspired by Mitch Ferrer.
 
