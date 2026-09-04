@@ -36,7 +36,9 @@ Most quotes below are from IBM colleagues (via group farewell messages on depart
 
 ## Working with Engineering: Rigor, Trust, and Cross-Functional Impact
 
-> "From partner incentives to Drupal, I really appreciated the time you would take to understand the details (often deeper than you really had to go)." — **G**, Software Architect, IBM  
+> "With you leading multiple product deliveries, it gave me the confidence and energy to go out and fight for the values espoused in those products. Never question the impact of those; we helped change IBMer views on what SaaS customers want and how IBM needed to adjust. Your energy always cut through the distance of video meetings. You always dug into a problem and did not shy away from a challenge. I appreciated that work ethic. I’d often hear from other IBMers how much they enjoyed working with you. You left a big impact. I just wrote alot more here 30 miles offshore from Haiti, but alas it did not save. If you were leading the product or testing, that would not have happened!" — **N**, Executive Sales and Product Leader, IBM
+> 
+> "From partner incentives to Drupal CMS, I really appreciated the time you would take to understand the details (often deeper than you really had to go)." — **G**, Software Architect, IBM  
 >   
 > "Your demonstrated leadership, attention to detail, and tactical flexibility during challenging situations is commendable. Working with you has been an inspiration to me as we got features built out over crazy timelines." — **K**, Chief Enterprise Architect / Senior Technical Staff Member, IBM  
 >   
@@ -46,8 +48,6 @@ Most quotes below are from IBM colleagues (via group farewell messages on depart
 >   
 > "Thank you for your unwavering support and help in running the squad as smooth as possible. I will miss our 1:1's and chit chats outside of work." — **S**, Software Architect, IBM  
 >   
-> "With you leading multiple product deliveries, it gave me the confidence and energy to go out and fight for the values espoused in those products. Never question the impact of those; we helped change IBMer views on what SaaS customers want and how IBM needed to adjust." — **N**, Executive Sales and Product Leader, IBM
-
 ---
 
 ## Team Culture & Positivity
