@@ -1,6 +1,7 @@
 # about me
 * Dynamic servant-leadership style fueled by genuine curiosity, conscientiousness, and customer centricity.
-* Product and technical leader for global customer success, data privacy compliance, partner program experience, and multiple platform initiatives. 
+* Quality, Product and technical leader for global customer success, data privacy compliance, partner program experience, and multiple platform initiatives across multiple business domains.
+* Enjoys quickly learning new products/technologies/business domains.
 * 7 years of servant-leadership management experience, 7+ years in product management, and 15+ years as “voice of the customer” in cross-functional quality engineering and business analyst/programmer and consultant roles across Fortune 100, Fortune 500, Department of Defense (DoD), and top 100-ranked cloud service provider private equity start-up organizations.
 * Skilled at communicating and collaborating with internal and external stakeholders at all roles and levels. **Equally comfortable collaborating with executives or engineers as I am with support, sales, solution architects, UX designers, researchers and end users. Quickly form and maintain strong relationships across roles, levels, and organizations.**
 * Adept in fostering trust within cross-functional teams while guiding iterative value delivery, continuous improvement, and effectively navigating organizational change.
